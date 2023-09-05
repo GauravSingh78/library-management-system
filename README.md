@@ -5,8 +5,8 @@ connect the application with postgreSQL
 Run the Application in IDE
 
 # Login
-login_username: library
-password : library
+-username: library
+-password : library
 
 
 # SnapShot
