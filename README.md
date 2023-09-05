@@ -1,15 +1,15 @@
 # library-management-system
 
-#Connection
+# Connection
 connect the application with postgreSQL
 Run the Application in IDE
 
-#Login
+# Login
 login_username: library
 password : library
 
 
-#SnapShot
+# SnapShot
 -launch screen
 ![image](https://github.com/GauravSingh78/library-management-system/assets/128143468/541b9cb7-e055-4f41-890e-950cfbf7155f)
 
